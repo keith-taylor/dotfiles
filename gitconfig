@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = k-taylor@outlook.com
+	name = Keith Taylor
